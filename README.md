@@ -44,6 +44,7 @@
 - [**llm-warden**](https://github.com/jackhhao/llm-warden) – Hugging Face-based jailbreak detection model.
 - [**vigil-llm**](https://github.com/deadbits/vigil-llm) – REST API for LLM security risk scoring.
 - [**last_layer**](https://github.com/arekusandr/last_layer) – Low-latency pre-filter for prompt injection prevention.
+- [**Omega Walls**](https://github.com/synqratech/omega-walls) – Deterministic Ω trust boundary for RAG/agents: wall-pressure projection + memory (scar-mass) + Off predicate for prompt injection, exfiltration, and tool-abuse defense.
 
 ---
 
