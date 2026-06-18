@@ -44,6 +44,7 @@
 - [**llm-warden**](https://github.com/jackhhao/llm-warden) – Hugging Face-based jailbreak detection model.
 - [**vigil-llm**](https://github.com/deadbits/vigil-llm) – REST API for LLM security risk scoring.
 - [**last_layer**](https://github.com/arekusandr/last_layer) – Low-latency pre-filter for prompt injection prevention.
+- [**Future AGI AgentCC Gateway**](https://github.com/future-agi/future-agi/tree/main/agentcc-gateway) – Self-hosted LLM/MCP gateway with guardrails (mcpsec) against prompt injection and PII leakage.
 
 ---
 
