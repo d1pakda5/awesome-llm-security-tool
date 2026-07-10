@@ -43,6 +43,7 @@
 
 - [**llm-warden**](https://github.com/jackhhao/llm-warden) – Hugging Face-based jailbreak detection model.
 - [**vigil-llm**](https://github.com/deadbits/vigil-llm) – REST API for LLM security risk scoring.
+- [**Darkmoon**](https://github.com/ASCIT31/Dark-Moon) – Privacy Gateway for LLM pipelines: deterministic placeholders keep real IPs, hosts, credentials and PII from ever reaching the model, rehydrated locally with anti-exfiltration controls (GPL-3.0).
 - [**last_layer**](https://github.com/arekusandr/last_layer) – Low-latency pre-filter for prompt injection prevention.
 
 ---
