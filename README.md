@@ -28,6 +28,7 @@
 - [**DeepTeam**](https://github.com/confident-ai/deepteam) – Modular LLM red teaming framework (prompt injection, hallucination, data leaks, jailbreaks).
 - [**garak**](https://github.com/NVIDIA/garak) – LLM vulnerability scanner covering toxicity, bias, sensitive data leaks, etc.
 - [**LLMFuzzer**](https://github.com/corca-ai/LLMFuzzer) – Adversarial fuzzing toolkit for generating harmful prompts automatically.
+- [**Memory Poisoning Lab**](https://github.com/RishabhPande/memory-poison-lab) - Local educational range for persistent-memory poisoning, origin-aware defense and bounded repair with synthetic targets and a scripted agent, not an LLM benchmark.
 
 ---
 
